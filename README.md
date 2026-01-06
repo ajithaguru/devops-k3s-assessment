@@ -33,7 +33,7 @@ ECAwQ=
 chmod 600 devops.pem
 ssh -i devops.pem root@46.62.164.72
 
-# install Doocker 
+# install Docker 
 install docker 
 sudo apt update -y
 sudo apt install docker.io -y
