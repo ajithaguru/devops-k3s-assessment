@@ -1,10 +1,2 @@
-# Helm build artifacts
-charts/
-*.tgz
 
-# Helm release manifests
-helm-release.yaml
 
-# Values files with secrets
-values-oidc.yaml
-!values-oidc.yaml
